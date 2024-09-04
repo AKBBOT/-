@@ -1,0 +1,83 @@
+.name{
+    margin-left: 10px;
+    display: inline-block;
+}
+.box{
+    margin-left: 58px;
+    display: inline-block;
+}
+.box5{
+    display: inline-block;
+    background-color: darksalmon;
+    margin-left: 20px;
+}
+.box2{
+    display: inline-block;
+    margin-left: 100px
+}
+.box3{
+    display: inline-block;
+    margin-left: 100px
+}
+.box4{
+    display: inline-block;
+    margin-left: 50px
+}
+.box6{
+    display: inline-block;
+    margin-left: 200px
+}
+.bo100{
+    display: flex;
+    gap: 50px;
+}
+.box300{
+    display: flex;
+    gap: 50px;
+}
+.box200{
+    display: flex;
+    gap: 50px;
+}
+.box400{
+    display: flex;
+    gap: 50px;   
+}
+.box500{
+    display: flex;
+    gap: 50px;    
+}
+.box600{
+    display: flex;
+    gap: 50px;
+}
+.box700{
+    display: flex;
+    gap: 50px;
+}
+.box800{
+    display: flex;
+    gap: 50px;
+}
+.box900{
+    display: flex;
+    gap: 50px;
+}
+.box1000{
+    display: flex;
+    gap: 50px;
+}
+button{
+    background-color: green;
+    width: 25px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.qwerty{
+    background-color: red;
+    width: 25px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
